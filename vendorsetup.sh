@@ -1,0 +1,4 @@
+
+add_lunch_combo full_c6503-eng
+add_lunch_combo full_c6503-userdebug
+add_lunch_combo full_c6503-user

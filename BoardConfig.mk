@@ -1,0 +1,5 @@
+include device/sony/lagan/BoardConfig.mk
+
+TARGET_BOOTLOADER_BOARD_NAME := C6503
+BOARD_CACHEIMAGE_PARTITION_SIZE := 576716800
+
